@@ -1,0 +1,19 @@
+body{
+  background-color:silver ;
+  color: red;
+  font-family: 'Stick No Bills', sans-serif;
+  text-align: left;
+}
+div{
+  background-color: black;
+}
+#b{
+
+  background-color: white;
+}
+.class{
+background-color: green;
+}
+p{
+  color: black;
+}
